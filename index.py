@@ -1,7 +1,7 @@
 <?php
 echo "Start create CSV File ... \n";
 //API's URL 
-$host = 'https://www.mylittlesalesman.com/api/v1/listings';
+$host = '';
 
 //username.
 $user_name = '';
